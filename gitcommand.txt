@@ -6,3 +6,12 @@ git log
 git add remote origin Server_Repo_URL
 git push -u origin master
 git clone Server_Repo_URL
+
+
+git branch Branch_name
+git checkout Branch_name
+git push -u origin Branch_name
+git branch -av
+git brach -D Branch_name
+git push origin -delete Branch_name
+
